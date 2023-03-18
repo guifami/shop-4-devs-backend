@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shop4Devs.Application\Shop4Devs.Application.csproj" />
+    <ProjectReference Include="..\Shop4Devs.Domain\Shop4Devs.Domain.csproj" />
+    <ProjectReference Include="..\Shop4Devs.Infra.Data\Shop4Devs.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "agP1AuqywcYeDwrb0I+J5EWuW7zmm+rfohoEHCfrR+Ti0xHujbQexOuxoqfSacmMB7XpKzpByvWwsQiCzSOeNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Domain\\Shop4Devs.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
