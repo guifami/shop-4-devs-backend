@@ -1,0 +1,15 @@
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\bin\Debug\net6.0\Shop4Devs.Application.deps.json
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\bin\Debug\net6.0\Shop4Devs.Application.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\bin\Debug\net6.0\Shop4Devs.Application.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\bin\Debug\net6.0\Shop4Devs.Domain.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\bin\Debug\net6.0\Shop4Devs.Domain.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.csproj.AssemblyReference.cache
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.AssemblyInfo.cs
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.csproj.CopyComplete
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\refint\Shop4Devs.Application.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\Shop4Devs.Application.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Application\obj\Debug\net6.0\ref\Shop4Devs.Application.dll

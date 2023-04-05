@@ -198,20 +198,20 @@
           "bin/placeholder/Shop4Devs.Domain.dll": {}
         }
       },
-      "Shop4Devs.Infra.Data/1.0.0": {
+      "Shop4Devs.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Shop4Devs.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Shop4Devs.Infra.Data.dll": {}
+          "bin/placeholder/Shop4Devs.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Shop4Devs.Infra.Data.dll": {}
+          "bin/placeholder/Shop4Devs.Infrastructure.dll": {}
         }
       },
-      "Shop4Devs.Infra.IoC/1.0.0": {
+      "Shop4Devs.IoC/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -219,13 +219,13 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
           "Shop4Devs.Application": "1.0.0",
           "Shop4Devs.Domain": "1.0.0",
-          "Shop4Devs.Infra.Data": "1.0.0"
+          "Shop4Devs.Infrastructure": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Shop4Devs.Infra.IoC.dll": {}
+          "bin/placeholder/Shop4Devs.IoC.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Shop4Devs.Infra.IoC.dll": {}
+          "bin/placeholder/Shop4Devs.IoC.dll": {}
         }
       }
     }
@@ -497,20 +497,20 @@
       "path": "../Shop4Devs.Domain/Shop4Devs.Domain.csproj",
       "msbuildProject": "../Shop4Devs.Domain/Shop4Devs.Domain.csproj"
     },
-    "Shop4Devs.Infra.Data/1.0.0": {
+    "Shop4Devs.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Shop4Devs.Infra.Data/Shop4Devs.Infra.Data.csproj",
-      "msbuildProject": "../Shop4Devs.Infra.Data/Shop4Devs.Infra.Data.csproj"
+      "path": "../Shop4Devs.Infrastructure/Shop4Devs.Infrastructure.csproj",
+      "msbuildProject": "../Shop4Devs.Infrastructure/Shop4Devs.Infrastructure.csproj"
     },
-    "Shop4Devs.Infra.IoC/1.0.0": {
+    "Shop4Devs.IoC/1.0.0": {
       "type": "project",
-      "path": "../Shop4Devs.Infra.IoC/Shop4Devs.Infra.IoC.csproj",
-      "msbuildProject": "../Shop4Devs.Infra.IoC/Shop4Devs.Infra.IoC.csproj"
+      "path": "../Shop4Devs.IoC/Shop4Devs.IoC.csproj",
+      "msbuildProject": "../Shop4Devs.IoC/Shop4Devs.IoC.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Shop4Devs.Infra.IoC >= 1.0.0",
+      "Shop4Devs.IoC >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -547,8 +547,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\Shop4Devs.Infra.IoC.csproj": {
-              "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\Shop4Devs.Infra.IoC.csproj"
+            "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\Shop4Devs.IoC.csproj": {
+              "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\Shop4Devs.IoC.csproj"
             }
           }
         }

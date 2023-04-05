@@ -1,0 +1,12 @@
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\bin\Debug\net6.0\Shop4Devs.Domain.deps.json
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\bin\Debug\net6.0\Shop4Devs.Domain.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\bin\Debug\net6.0\Shop4Devs.Domain.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\Shop4Devs.Domain.csproj.AssemblyReference.cache
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\Shop4Devs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\Shop4Devs.Domain.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\Shop4Devs.Domain.AssemblyInfo.cs
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\Shop4Devs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\Shop4Devs.Domain.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\refint\Shop4Devs.Domain.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\Shop4Devs.Domain.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Domain\obj\Debug\net6.0\ref\Shop4Devs.Domain.dll

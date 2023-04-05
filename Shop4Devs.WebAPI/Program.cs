@@ -1,4 +1,4 @@
-using Shop4Devs.Infra.IoC;
+using Shop4Devs.IoC;
 
 var builder = WebApplication.CreateBuilder(args);
 

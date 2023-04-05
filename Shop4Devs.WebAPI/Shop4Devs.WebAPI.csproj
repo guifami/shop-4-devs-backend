@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shop4Devs.Infra.IoC\Shop4Devs.Infra.IoC.csproj" />
+    <ProjectReference Include="..\Shop4Devs.IoC\Shop4Devs.IoC.csproj" />
   </ItemGroup>
 
 </Project>

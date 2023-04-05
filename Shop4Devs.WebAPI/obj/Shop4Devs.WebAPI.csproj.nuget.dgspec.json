@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.Data\\Shop4Devs.Infra.Data.csproj": {
+    "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infrastructure\\Shop4Devs.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.Data\\Shop4Devs.Infra.Data.csproj",
-        "projectName": "Shop4Devs.Infra.Data",
-        "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.Data\\Shop4Devs.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infrastructure\\Shop4Devs.Infrastructure.csproj",
+        "projectName": "Shop4Devs.Infrastructure",
+        "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infrastructure\\Shop4Devs.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -198,14 +198,14 @@
         }
       }
     },
-    "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\Shop4Devs.Infra.IoC.csproj": {
+    "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\Shop4Devs.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\Shop4Devs.Infra.IoC.csproj",
-        "projectName": "Shop4Devs.Infra.IoC",
-        "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\Shop4Devs.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\Shop4Devs.IoC.csproj",
+        "projectName": "Shop4Devs.IoC",
+        "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\Shop4Devs.IoC.csproj",
         "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -233,8 +233,8 @@
               "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Domain\\Shop4Devs.Domain.csproj": {
                 "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Domain\\Shop4Devs.Domain.csproj"
               },
-              "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.Data\\Shop4Devs.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.Data\\Shop4Devs.Infra.Data.csproj"
+              "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infrastructure\\Shop4Devs.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infrastructure\\Shop4Devs.Infrastructure.csproj"
               }
             }
           }
@@ -307,8 +307,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\Shop4Devs.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infra.IoC\\Shop4Devs.Infra.IoC.csproj"
+              "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\Shop4Devs.IoC.csproj": {
+                "projectPath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.IoC\\Shop4Devs.IoC.csproj"
               }
             }
           }

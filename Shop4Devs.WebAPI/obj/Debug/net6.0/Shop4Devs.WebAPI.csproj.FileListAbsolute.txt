@@ -5,10 +5,20 @@ C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\b
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.WebAPI.runtimeconfig.json
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.WebAPI.dll
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.WebAPI.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.Application.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.Domain.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.IoC.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.IoC.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.Application.pdb
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.Domain.pdb
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\Shop4Devs.WebAPI.csproj.AssemblyReference.cache
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\Shop4Devs.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\Shop4Devs.WebAPI.AssemblyInfoInputs.cache
@@ -25,3 +35,5 @@ C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\o
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\Shop4Devs.WebAPI.pdb
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\Shop4Devs.WebAPI.genruntimeconfig.cache
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\ref\Shop4Devs.WebAPI.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.Infrastructure.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Shop4Devs.Infrastructure.pdb
