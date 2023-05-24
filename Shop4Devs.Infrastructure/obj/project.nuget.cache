@@ -1,10 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "M5RwwABgmOCFkEb6kOCm0yCtEI64ZeifJYpRjUvOwFvn5ymb6j44jliuyVDkxvngmZ1KwUyUtaXdN9pMJUsmYw==",
+  "dgSpecHash": "lrL5i04w1J63GKrifF5aPHw94sMdCi9onGQZ1WC3+yVL41lXLHmsQPpEiKnnmOXXDNbGAPEMCcHO6ADaGPKbxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\AMD\\Documents\\Projetos\\Shop4Devs\\shop-4-devs-backend\\Shop4Devs.Infrastructure\\Shop4Devs.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AMD\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+    "C:\\Users\\AMD\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

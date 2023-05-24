@@ -4,7 +4,7 @@ namespace Shop4Devs.Domain.Interfaces
 {
     public interface ICategoryRepository
     {
-        Task<IEnumerable<Category>> GetAllAsync();
+        IEnumerable<Category> GetAllAsync();
         Task<Category> GetByIdAsync(Guid id);
 
         #region Admin Methods
