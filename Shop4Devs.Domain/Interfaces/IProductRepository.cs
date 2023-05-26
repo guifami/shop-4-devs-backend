@@ -4,14 +4,13 @@ namespace Shop4Devs.Domain.Interfaces
 {
     public interface IProductRepository
     {
-        IEnumerable<Product> GetAllAsync();
-        Task<Product> GetByIdAsync(Guid? id);
-        Task<Product> GetProductCategoryAsync(Guid? id);
+        Task<IEnumerable<Product>> GetAll();
+        Task<Product> GetById(Guid? id);
 
         #region Admin Methods
-        Task<Product> CreateAsync(Product product);
-        Task<Product> UpdateAsync(Product product);
-        Task<Product> RemoveAsync(Product product);
+        Task Create(Product product);
+        Task Update(Product product);
+        Task Remove(Guid id);
         #endregion
     }
 }

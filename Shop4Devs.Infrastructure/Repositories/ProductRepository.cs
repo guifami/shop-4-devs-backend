@@ -14,36 +14,41 @@ namespace Shop4Devs.Infrastructure.Repositories
             _dbConnection = dbConnection;
         }
 
-        public IEnumerable<Product> GetAllAsync()
+        public async Task<IEnumerable<Product>> GetAll()
         {
             string query = "SELECT * FROM TB_PRODUTOS";
-            return _dbConnection.Query<Product>(query);
+            return await _dbConnection.QueryAsync<Product>(query);
         }
 
-        public Task<Product> CreateAsync(Product product)
+        public async Task<Product> GetById(Guid? id)
+        {
+            string query = $"SELECT * FROM TB_PRODUTOS WHERE Id = '{id}'";
+
+            var result = await _dbConnection.QueryFirstOrDefaultAsync<Product>(query);
+
+            if (result == null) return null;
+
+            return await _dbConnection.QueryFirstOrDefaultAsync<Product>(query);
+        }
+
+        #region Admin Methods
+        public async Task Create(Product product)
+        {
+            string query = @"INSERT INTO TB_PRODUTOS 
+                            (CategoryId, Name, Description, Price, Stock, Image)
+                            VALUES
+                            (@CategoryId, @Name, @Description, @Price, @Stock, @Image)";
+
+            await _dbConnection.ExecuteAsync(query, product);
+        }
+        public Task Update(Product product)
         {
             throw new NotImplementedException();
         }
-
-
-        public Task<Product> GetByIdAsync(Guid? id)
+        public Task Remove(Guid id)
         {
             throw new NotImplementedException();
         }
-
-        public Task<Product> GetProductCategoryAsync(Guid? id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<Product> RemoveAsync(Product product)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<Product> UpdateAsync(Product product)
-        {
-            throw new NotImplementedException();
-        }
+        #endregion
     }
 }

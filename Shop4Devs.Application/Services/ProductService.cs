@@ -12,9 +12,19 @@ namespace Shop4Devs.Application.Services
             _productRepository = productRepository;
         }
 
-        public IEnumerable<Product> GetAllProducts()
+        public Task<IEnumerable<Product>> GetAllProducts()
         {
-            return _productRepository.GetAllAsync();
+            return _productRepository.GetAll();
+        }
+
+        public Task<Product> GetProductById(Guid id)
+        {
+            return _productRepository.GetById(id);
+        }
+
+        public Task CreateProduct(Product product)
+        {
+            return _productRepository.Create(product);
         }
     }
 }

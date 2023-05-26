@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Shop4Devs.Application.Services;
+using Shop4Devs.Domain.Entities;
 
 namespace Shop4Devs.WebAPI.Controllers
 {
@@ -15,11 +16,33 @@ namespace Shop4Devs.WebAPI.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAllProducts()
+        public async Task<IActionResult> GetAllProducts()
         {
-            var products = _productService.GetAllProducts();
-            return Ok(products);
+            var products = await _productService.GetAllProducts();
+
+            if (products == null) return StatusCode(404);
+
+            return StatusCode(200, products);
         }
+
+        [HttpGet("{id:guid}")]
+        public async Task<IActionResult> GetProductById(Guid id)
+        {
+            var product = await _productService.GetProductById(id);
+
+            if (product == null) return StatusCode(404);
+
+            return StatusCode(200, product);
+        }
+
+        #region Admin Methods
+        [HttpPost]
+        public async Task<IActionResult> CreateProduct([FromBody] Product product)
+        {
+            await _productService.CreateProduct(product);
+            return StatusCode(200, $"Produto {product.Name} criado com sucesso!");
+        }
+        #endregion
     }
 }
 
