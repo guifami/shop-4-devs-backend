@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Shop4Devs.Application.Interfaces;
 using Shop4Devs.Application.Services;
 using Shop4Devs.Domain.Interfaces;
 using Shop4Devs.Infrastructure.Repositories;
@@ -18,8 +19,14 @@ namespace Shop4Devs.IoC
                 return new SqlConnection(connectionString);
             });
 
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
-            services.AddScoped<ProductService>();
+            services.AddScoped<IUserRepository, UserRepository>();
+
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IPasswordService, PasswordService>();
 
             return services;
         }

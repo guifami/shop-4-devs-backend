@@ -4,13 +4,13 @@ namespace Shop4Devs.Domain.Interfaces
 {
     public interface ICategoryRepository
     {
-        IEnumerable<Category> GetAllAsync();
-        Task<Category> GetByIdAsync(Guid id);
+        Task<IEnumerable<Category>> GetAll();
+        Task<Category> GetById(int id);
 
         #region Admin Methods
-        Task<Category> CreateAsync(Category category);
-        Task<Category> UpdateAsync(Category category);
-        Task<Category> RemoveAsync(Category category);
+        Task Create(Category category);
+        Task Update(Category category);
+        Task Remove(int id);
         #endregion
     }
 }

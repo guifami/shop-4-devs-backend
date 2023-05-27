@@ -1,9 +1,10 @@
-﻿using Shop4Devs.Domain.Entities;
+﻿using Shop4Devs.Application.Interfaces;
+using Shop4Devs.Domain.Entities;
 using Shop4Devs.Domain.Interfaces;
 
 namespace Shop4Devs.Application.Services
 {
-    public class ProductService
+    public class ProductService : IProductService
     {
         private readonly IProductRepository _productRepository;
 

@@ -44,3 +44,9 @@ C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\o
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\Shop4Devs.WebAPI.pdb
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\Shop4Devs.WebAPI.genruntimeconfig.cache
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\obj\Debug\net6.0\ref\Shop4Devs.WebAPI.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

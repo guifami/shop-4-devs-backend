@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Shop4Devs.Application.Services;
+using Shop4Devs.Application.Interfaces;
 using Shop4Devs.Domain.Entities;
 
 namespace Shop4Devs.WebAPI.Controllers
@@ -8,9 +8,9 @@ namespace Shop4Devs.WebAPI.Controllers
     [Route("api/[controller]")]
     public class ProductController : ControllerBase
     {
-        private readonly ProductService _productService;
+        private readonly IProductService _productService;
 
-        public ProductController(ProductService productService)
+        public ProductController(IProductService productService)
         {
             _productService = productService;
         }

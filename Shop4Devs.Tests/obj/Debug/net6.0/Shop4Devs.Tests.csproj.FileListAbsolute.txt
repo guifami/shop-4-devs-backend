@@ -103,3 +103,9 @@ C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\ob
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\obj\Debug\net6.0\Shop4Devs.Tests.pdb
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\obj\Debug\net6.0\Shop4Devs.Tests.genruntimeconfig.cache
 C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\obj\Debug\net6.0\ref\Shop4Devs.Tests.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AMD\Documents\Projetos\Shop4Devs\shop-4-devs-backend\Shop4Devs.Tests\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
